@@ -7,7 +7,7 @@ fully functioning Google Books API search engine built with a RESTful API, and r
   * You have to clone the repository on to your local machine. From the root directory run `npm install or npm i`
     
   ## Usage
-  ![./Develop/client/images/google-book.png](./Develop/client/images/google-book.png)
+  ![./client/images/google-book.png](./client/images/google-book.png)
 
   You can interact with application by clinking on this link [https://youtu.be/6JQF7C3CFa8](https://youtu.be/6JQF7C3CFa8)
  
